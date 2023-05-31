@@ -88,7 +88,7 @@ main {
   position: relative;
   width: 100%;
   height: 900px;
-  background-image: url("/images/blue_bg.png");
+  background-image: url("../images/blue_bg.png");
   background-size: 100% 900px;
   background-repeat: no-repeat;
 }
@@ -230,7 +230,7 @@ main header button:hover {
   position: relative;
   width: 60%;
   height: 700px;
-  background-image: url("/images/landing_bg.png");
+  background-image: url("../images/landing_bg.png");
   background-size:85% 650px;
   background-repeat: no-repeat;
   background-position: right;
@@ -246,7 +246,7 @@ main header button:hover {
   transform: translateX(-50%,-50%);
   background-size: 100% 300px;
   background-repeat: no-repeat;
-  background-image: url("/images/clouds.png");
+  background-image: url("../images/clouds.png");
   z-index: 2;
 }
 
@@ -264,7 +264,7 @@ main::after {
   content: " ";
   width: 90%;
   height: 250px;
-  background-image: url("/images/waves.png");
+  background-image: url("../images/waves.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -394,7 +394,7 @@ footer  {
   overflow: hidden;
   height: 600px;
   width:110% ;
-  background-image: url("/images/Group\ 1131.png");
+  background-image: url("../images/Group\ 1131.png");
   background-position: -50px 50px;
   background-repeat: no-repeat;
   background-size: 100% 760px;
